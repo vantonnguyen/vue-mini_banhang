@@ -6,8 +6,8 @@
 
 <script>
 export default {
-  name: 'App'
-}
+  name: "App",
+};
 </script>
 
 <style>
@@ -24,10 +24,9 @@ body {
 #app {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  max-width: 600px;
+  max-width: 375px;
   margin: 0 auto;
   background: #f5f5f5;
   min-height: 100vh;
 }
 </style>
-
